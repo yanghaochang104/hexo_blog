@@ -1,0 +1,43 @@
+Arguments: 
+  /Users/TP2108044/.nvm/versions/node/v14.18.1/bin/node /Users/TP2108044/.nvm/versions/node/v14.18.1/bin/yarn add hexo-cli-g
+
+PATH: 
+  /Users/TP2108044/.rvm/gems/ruby-2.7.2/bin:/Users/TP2108044/.rvm/gems/ruby-2.7.2@global/bin:/Users/TP2108044/.rvm/rubies/ruby-2.7.2/bin:/Users/TP2108044/.nvm/versions/node/v14.18.1/bin:/Users/TP2108044/Library/Android/sdk/emulator:/Users/TP2108044/Library/Android/sdk/tools:/Users/TP2108044/.pyenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/TP2108044/workspace/monarch/bin:/Users/TP2108044/.rvm/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.18.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/hexo-cli-g: Not found
+      at Request.params.callback [as _callback] (/Users/TP2108044/.nvm/versions/node/v14.18.1/lib/node_modules/yarn/lib/cli.js:67029:18)
+      at Request.self.callback (/Users/TP2108044/.nvm/versions/node/v14.18.1/lib/node_modules/yarn/lib/cli.js:140883:22)
+      at Request.emit (events.js:400:28)
+      at Request.<anonymous> (/Users/TP2108044/.nvm/versions/node/v14.18.1/lib/node_modules/yarn/lib/cli.js:141855:10)
+      at Request.emit (events.js:400:28)
+      at IncomingMessage.<anonymous> (/Users/TP2108044/.nvm/versions/node/v14.18.1/lib/node_modules/yarn/lib/cli.js:141777:12)
+      at Object.onceWrapper (events.js:519:28)
+      at IncomingMessage.emit (events.js:412:35)
+      at endReadableNT (internal/streams/readable.js:1334:12)
+      at processTicksAndRejections (internal/process/task_queues.js:82:21)
+
+npm manifest: 
+  {
+    "name": "hexo_blog",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/yanghaochang104/hexo_blog.git",
+    "author": "ray.chang <yanghaochang1004@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

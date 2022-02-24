@@ -1,0 +1,11 @@
+{
+  "name": "hexo_blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yanghaochang104/hexo_blog.git",
+  "author": "ray.chang <yanghaochang1004@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hexo-cli": "^4.3.0"
+  }
+}
